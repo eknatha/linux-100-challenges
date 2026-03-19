@@ -1,23 +1,23 @@
 # Challenge 07: Search Text in File
 
-## Task
+## 🧩 Task
 Search for a word in a file.
 
-## Solution
+---
 
-1. Consider Case Sensitivity:
+<details>
+<summary>💡 Click to view solution</summary>
+
+### 🔹 Case-sensitive search
 ```bash
-
 grep "pattern" filename
-
 grep "error" file.txt
 ```
 
-2. Ignore case sensitivity : 
+### 🔹 Case-insensitive search
 ```bash
-
 grep -i "pattern" filename
-
-grep -i  "error" file.txt
+grep -i "error" file.txt
 ```
-## 
+
+</details>
