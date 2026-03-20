@@ -22,18 +22,6 @@ PING google.com (142.250.183.206) 56(84) bytes of data.
 
 ---
 
-### 🔹 Trace network path
-```bash
-traceroute www.amazon.com
-```
-
-**Example output:**
-```text
-1  192.168.1.1     1.123 ms
-2  10.0.0.1        5.456 ms
-3  172.16.0.1     10.789 ms
-...
-```
 
 ---
 
@@ -42,8 +30,6 @@ traceroute www.amazon.com
 - Shows:
   - Response time (latency)  
   - Packet loss  
-- `traceroute` → Displays the path packets take to reach a destination  
-- Helps identify network hops and delays  
 
 ---
 
@@ -52,12 +38,6 @@ traceroute www.amazon.com
 - Send limited packets:
 ```bash
 ping -c 4 google.com
-```
-
-- If `traceroute` is not installed:
-```bash
-sudo apt install traceroute   # Debian/Ubuntu
-sudo yum install traceroute   # RHEL/CentOS
 ```
 
 ---
