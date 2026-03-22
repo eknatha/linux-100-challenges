@@ -349,9 +349,6 @@ tail -f /var/log/rsync_backup.log
 ## 📚 Related Concepts
 
 - [rsync Manual](https://linux.die.net/man/1/rsync)
-- [Challenge 54 — Schedule Scripts with Cron](../challenge-54-cron-schedule/README.md)
-- [Challenge 58 — Archive Logs with tar](../challenge-58-archive-logs/README.md)
-- [Challenge 59 — Monitor Disk Space](../challenge-59-disk-space-alert/README.md)
 - [Restic](https://restic.net/) — modern encrypted backup tool built on similar principles
 
 </details>
