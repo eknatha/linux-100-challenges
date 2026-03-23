@@ -23,7 +23,9 @@ Trace the system calls made by a running process to understand its behavior and 
 
 ---
 
-<default>
+
+
+<details>
 <summary>💡 Click to view solution</summary>
 
 ## ✅ Solution
