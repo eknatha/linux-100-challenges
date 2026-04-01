@@ -1,5 +1,6 @@
 # Challenge 31: Top CPU Consuming Processes
 
+![Eknatha](https://img.shields.io/badge/Eknatha-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ## 🧩 Task
 Find processes consuming the most CPU.
 
